@@ -1,6 +1,6 @@
 # butter
 
-<<img src="blob:chrome-untrusted://media-app/6d56e661-d2cf-4f0e-9a5d-1b1139ed85f9" width="400">
+<<img src="https://github.com/maxtimmins/butter/blob/main/Screenshot%202021-02-12%20at%2019.46.38.png?raw=true" width="400">
 
 ```C++
 /*
