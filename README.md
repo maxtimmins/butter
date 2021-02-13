@@ -1,6 +1,6 @@
 # butter
 
-<<img src="https://cvilleschools.onshape.com/documents/44e9017d447de86c23adbe16/w/66716b184243d730d298ec3d/e/6cd31298880bd8ef0278942d" width="400">
+<<img src="blob:chrome-untrusted://media-app/6d56e661-d2cf-4f0e-9a5d-1b1139ed85f9" width="400">
 
 ```C++
 /*
