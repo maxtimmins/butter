@@ -35,3 +35,26 @@ void loop() {
 
   }
 ```
+I got the servo to move with some simple code (see below)
+```C++
+#include <Servo.h> //Include the servo library
+Servo servoblue; //The servo gets the name “servoblue”
+void setup()
+{
+servoblue.attach(8); //The signal line of the servo is on pin 8
+}
+void loop()
+{
+64 
+;servoblue.write(90); //Position 1 with an angle of 0°
+delay(1000); //Wait 3 seconds
+servoblue.write(90); //Position 2 with an angle of 90°
+delay(1000); //Wait 3 seconds
+servoblue.write(90); //Position 3 with an angle of 180°
+delay(1000); //Wait 3 seconds
+servoblue.write(-90); //Position 4 with an angle of 20°
+delay(1000); //Wait 3 seconds
+}
+```
+
+The IR sensor has been quite a challenge and I still need to work on that but I think I have made good progression with understanding the IR sensor.
