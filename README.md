@@ -60,4 +60,4 @@ delay(1000); //Wait 3 seconds
 The IR sensor has been quite a challenge and I still need to work on that but I think I have made good progression with understanding the IR sensor.
 
 Got help from Mr. Helmstetter with the wiring diagram since I was quite confused about it (see below)
-<<img src="https://github.com/maxtimmins/butter/blob/main/Screenshot%202021-03-16%20at%2012.26.49.png?raw=true" width="400">
+<img src="https://github.com/maxtimmins/butter/blob/main/Screenshot%202021-03-16%20at%2012.26.49.png?raw=true" width="400">
