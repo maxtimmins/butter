@@ -58,3 +58,6 @@ delay(1000); //Wait 3 seconds
 ```
 
 The IR sensor has been quite a challenge and I still need to work on that but I think I have made good progression with understanding the IR sensor.
+
+Got help from Mr. Helmstetter with the wiring diagram since I was quite confused about it (see below)
+<<img src="" width="400">
