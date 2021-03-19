@@ -5,6 +5,13 @@
 
 <<img src="https://github.com/maxtimmins/butter/blob/main/Capture.PNG?raw=true" width="400">
 
+<<img src="https://github.com/maxtimmins/butter/blob/main/
+
+<<img src="https://github.com/maxtimmins/butter/blob/main/
+
+this week i finished fitting my battery and arduino.i idk why but i forgot how to post pictures. ive been getting a good bit of work done.
+
+
 this week I worked on trying to make my vision a reality. I learned that what I designed isnt intirerly what I was going to make. I learned this when I had to re design my base to fit the new wheels.
 
 
