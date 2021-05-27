@@ -71,5 +71,6 @@ Got help from Mr. Helmstetter with the wiring diagram since I was quite confused
 The project is going good but kind of slow, I do not believe we are on time. The IR sensor is very hard to figure out.
 When I return from spring break to the lab I will be working on finishing up code and assembling. Avery
 When I return from spring break to the lab I will be working on assembling. Max
+
 <<img src="https://github.com/maxtimmins/butter/blob/main/Capture2.PNG?raw=true" width="400">
 
