@@ -73,8 +73,8 @@ When I return from spring break to the lab I will be working on finishing up cod
 When I return from spring break to the lab I will be working on assembling. Max
 
 <img src="https://github.com/maxtimmins/butter/blob/main/Capture2.PNG?raw=true" width="400">
-
+this is the a redisng of the head mr helmstetter did to reduce cost and improve the look.
 <img src="https://github.com/maxtimmins/butter/blob/main/Capture4.PNG?raw=true" width="400">
-
+this is the finished design in onshape we are currently in the process of printing and constructing it, we had a bit of a blunder and all of our code was lost which we are working on correcting.
 <img src="https://github.com/maxtimmins/butter/blob/main/Capture3.PNG?raw=true" width="400">
-
+this is a rework of our original base where the shaft was connected here the shaft is printed seperate. 
