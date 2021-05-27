@@ -76,5 +76,5 @@ When I return from spring break to the lab I will be working on assembling. Max
 
 <img src="https://github.com/maxtimmins/butter/blob/main/Capture2.PNG?raw=true" width="400">
 
-<img src="https://github.com/maxtimmins/butter/blob/main/Capture2.PNG?raw=true" width="400">
+<img src="https://github.com/maxtimmins/butter/blob/main/Capture3.PNG?raw=true" width="400">
 
