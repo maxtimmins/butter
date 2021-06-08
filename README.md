@@ -94,7 +94,7 @@ void loop(){
 This is the code that pulls the HEX values of the buttons pushed off the remote so we can apply them into our code in the future.
 
 The IR sensor has been quite a challenge and I still need to work on that but I think I have made good progression with understanding the IR sensor.
-
+## Wiring
 Got help from Mr. Helmstetter with the wiring diagram since I was quite confused about it (see below)
 <img src="https://github.com/maxtimmins/butter/blob/main/Screenshot%202021-03-16%20at%2012.26.49.png?raw=true" width="400">
 ### Spring break progress check
@@ -103,7 +103,7 @@ When I return from spring break to the lab I will be working on finishing up cod
 When I return from spring break to the lab I will be working on assembling. Max
 
 <img src="https://github.com/maxtimmins/butter/blob/main/Capture2.PNG?raw=true" width="400">
-this is the a redisng of the head mr helmstetter did to reduce cost and improve the look.
+this is the a redesign of the head Mr. Helmstetter did to reduce cost and improve the look.
 <img src="https://github.com/maxtimmins/butter/blob/main/Capture4.PNG?raw=true" width="400">
 this is the finished design in onshape we are currently in the process of printing and constructing it, we had a bit of a blunder and all of our code was lost which we are working on correcting.
 <img src="https://github.com/maxtimmins/butter/blob/main/Capture3.PNG?raw=true" width="400">
