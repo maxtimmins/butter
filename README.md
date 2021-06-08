@@ -90,6 +90,7 @@ void loop(){
   }
 }
 ```
+This is the code that pulls the HEX values of the buttons pushed off the remote so we can apply them into our code in the future.
 
 The IR sensor has been quite a challenge and I still need to work on that but I think I have made good progression with understanding the IR sensor.
 
