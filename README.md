@@ -2,17 +2,18 @@
 
 
 ## insiration
-<img src="https://static.wikia.nocookie.net/rickandmorty/images/6/67/Butter_Robot_Picture.png/revision/latest?cb=20171106225602" width="400">
+<<img src="https://static.wikia.nocookie.net/rickandmorty/images/6/67/Butter_Robot_Picture.png/revision/latest?cb=20171106225602" width="400">
 
 i really enjoy watching rick and morty and when i was thinking about something to do for a project i tought how cool it would be the make the butter robot.
 
-<img src="https://github.com/maxtimmins/butter/blob/main/Screenshot%202021-02-12%20at%2019.46.38.png?raw=true" width="400">
 
+## planning
+<<img src="https://github.com/maxtimmins/butter/blob/main/Screenshot%202021-02-12%20at%2019.46.38.png?raw=true" width="400">
 
-<img src="https://github.com/maxtimmins/butter/blob/main/Capture.PNG?raw=true" width="400">
+this is the first model ive made in onshape of our project.
+<<img src="https://github.com/maxtimmins/butter/blob/main/Capture.PNG?raw=true" width="400">
 
-
-this week i finished fitting my battery and arduino.i idk why but i forgot how to post pictures. ive been getting a good bit of work done.
+this a is a draft of where i think we might want the arduino.
 
 
 this week I worked on trying to make my vision a reality. I learned that what I designed isnt intirerly what I was going to make. I learned this when I had to re design my base to fit the new wheels.
