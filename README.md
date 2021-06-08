@@ -46,25 +46,46 @@ void loop() {
 
   }
 ```
-I got the servo to move with some simple code (see below)
+
 ```C++
-#include <Servo.h> //Include the servo library
-Servo servoblue; //The servo gets the name “servoblue”
-void setup()
-{
-servoblue.attach(8); //The signal line of the servo is on pin 8
+// IRremote - Version: Latest 
+#include <IRremote.h>
+
+
+ /* 
+  IR Receiver Demonstration 1
+  IR-Rcv-Demo1.ino
+  Demonstrates IR codes with IR Receiver
+  Displays results on Serial Monitor
+ 
+  DroneBot Workshop 2017
+  http://dronebotworkshop.com
+*/
+ 
+// Include IR Remote Library by Ken Shirriff
+#include <IRremote.h>
+ 
+// Define sensor pin
+const int RECV_PIN = 4;
+ 
+// Define IR Receiver and Results Objects
+IRrecv irrecv(RECV_PIN);
+decode_results results;
+ 
+ 
+void setup(){
+  // Serial Monitor @ 9600 baud
+  Serial.begin(9600);
+  // Enable the IR Receiver
+  irrecv.enableIRIn();
 }
-void loop()
-{
-64 
-;servoblue.write(90); //Position 1 with an angle of 0°
-delay(1000); //Wait 3 seconds
-servoblue.write(90); //Position 2 with an angle of 90°
-delay(1000); //Wait 3 seconds
-servoblue.write(90); //Position 3 with an angle of 180°
-delay(1000); //Wait 3 seconds
-servoblue.write(-90); //Position 4 with an angle of 20°
-delay(1000); //Wait 3 seconds
+ 
+void loop(){
+  if (irrecv.decode()){
+    // Print Code in HEX
+        Serial.println(results.value, HEX);
+        irrecv.resume();
+  }
 }
 ```
 
