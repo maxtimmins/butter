@@ -7,6 +7,8 @@
 
 # butter
 
+<<img src="https://static.wikia.nocookie.net/rickandmorty/images/6/67/Butter_Robot_Picture.png/revision/latest?cb=20171106225602" width="400">
+
 <<img src="https://github.com/maxtimmins/butter/blob/main/Screenshot%202021-02-12%20at%2019.46.38.png?raw=true" width="400">
 
 
