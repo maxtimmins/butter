@@ -18,7 +18,8 @@ this a is a draft of where i think we might want the arduino.
 
 this week I worked on trying to make my vision a reality. I learned that what I designed isnt intirerly what I was going to make. I learned this when I had to re design my base to fit the new wheels.
 
-##code
+## code
+
 ```C++
 /*
 
