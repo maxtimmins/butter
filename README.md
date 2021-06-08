@@ -48,6 +48,7 @@ void loop() {
 
   }
 ```
+This is our original outline for our psuedocode
 
 ```C++
 // IRremote - Version: Latest 
