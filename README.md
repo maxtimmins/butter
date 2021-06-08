@@ -97,7 +97,7 @@ The IR sensor has been quite a challenge and I still need to work on that but I 
 
 Got help from Mr. Helmstetter with the wiring diagram since I was quite confused about it (see below)
 <img src="https://github.com/maxtimmins/butter/blob/main/Screenshot%202021-03-16%20at%2012.26.49.png?raw=true" width="400">
-
+### Spring break progress check
 The project is going good but kind of slow, I do not believe we are on time. The IR sensor is very hard to figure out.
 When I return from spring break to the lab I will be working on finishing up code and assembling. Avery
 When I return from spring break to the lab I will be working on assembling. Max
