@@ -11,6 +11,7 @@ i really enjoy watching rick and morty and when i was thinking about something t
 <img src="https://github.com/maxtimmins/butter/blob/main/Screenshot%202021-02-12%20at%2019.46.38.png?raw=true" width="400">
 
 this is the first model ive made in onshape of our project.
+
 <img src="https://github.com/maxtimmins/butter/blob/main/Capture.PNG?raw=true" width="400">
 
 this a is a draft of where i think we might want the arduino.
