@@ -1,7 +1,7 @@
 # butter
 
 
-## insiration
+## inspiration
 <<img src="https://static.wikia.nocookie.net/rickandmorty/images/6/67/Butter_Robot_Picture.png/revision/latest?cb=20171106225602" width="400">
 
 i really enjoy watching rick and morty and when i was thinking about something to do for a project i tought how cool it would be the make the butter robot.
